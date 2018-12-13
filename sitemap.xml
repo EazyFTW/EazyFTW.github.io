@@ -6,6 +6,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://docs.vyprbot.xyz/commands/</loc>
+     <lastmod>2018-12-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://docs.vyprbot.xyz/commands/google/</loc>
      <lastmod>2018-12-13</lastmod>
      <changefreq>daily</changefreq>
